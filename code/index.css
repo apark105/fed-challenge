@@ -349,6 +349,8 @@ h5 {
   }
   .hero__img {
     width: 26rem;
+    top: 170px;
+    height: auto;
   }
 }
 
@@ -375,7 +377,7 @@ h5 {
   }
 
   .page {
-    margin-top: 460px;
+    margin-top: 360px;
   }
 
   .page__container {
